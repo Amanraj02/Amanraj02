@@ -1,5 +1,5 @@
 ### Hello! 👋
-### I'm [Aman Raj Sharma], a dedicated developer and avid learner with a strong enthusiasm for exploring diverse technologies. I thrive on blending technical skills with an eye for design to craft visually stunning and functional products
+### I'm Aman Raj Sharma, a dedicated developer and avid learner with a strong enthusiasm for exploring diverse technologies. I thrive on blending technical skills with an eye for design to craft visually stunning and functional products
 
 ---
 ### Languages and Tools
